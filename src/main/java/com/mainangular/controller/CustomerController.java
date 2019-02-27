@@ -28,7 +28,7 @@ public class CustomerController {
 
 	@GetMapping("/allcustomers")
 	public List<Customer> getAllCustomers() {
-		System.out.print("Im in");
+		//System.out.print("Im in");
 		return customerService.getAllCustomers();
 	}
 

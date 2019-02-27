@@ -1,4 +1,4 @@
-package com.mainangular.ws.api.beans;
+package com.mainangular.beans;
 
 import java.util.ArrayList;
 import java.util.List;
